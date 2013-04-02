@@ -10,6 +10,7 @@ namespace HelloGit1
         static void Main(string[] args)
         {
             Console.WriteLine("kent");
+            Console.WriteLine("kent1");
             Console.ReadKey();
         }
     }
