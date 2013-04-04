@@ -15,7 +15,7 @@ namespace HelloGit1
             da = (dt - dt1).TotalDays / 2 + 1;
             dt = dt.AddDays(da);
             short d = (short)dt.DayOfWeek;
-            Console.WriteLine("kent dfaf kent");
+            Console.WriteLine("kent dfaf faf adf kent");
             Console.WriteLine("GetForture : " + GetForture());
             Console.ReadKey();
         }
